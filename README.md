@@ -15,8 +15,8 @@ Evaluation metrics: F1 Score, Specificity, Matthew's Correlation Coefficient, Sp
     * 4_Feature_Selection_Dropping_High_Correlated_Features
 
 * Model training (using), evaluation and interpreting of results using explainable AI (LIME):
-* * 5_Model_Training_Decision_Tree_Models
-* * 6_Model_Training_Logistic_Regression_Models_+_Explainable_AI
+    * 5_Model_Training_Decision_Tree_Models
+    * 6_Model_Training_Logistic_Regression_Models_+_Explainable_AI
 
 
 ## References
@@ -24,21 +24,21 @@ We acknowledge that we used the following websites or contacts to complete this 
 promptly clarifying our doubts
 * TA Zhang Yifan, Prof Eric
 * Dataset used
-* * https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
-* * https://mp.weixin.qq.com/s/upjzuPg5AMIDsGxlpqnoCg
-* * (Considered but did not use) https://www.canva.com/link?target=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F27%2Fcredit%2Bapproval&design=DAGWFgWSLeQ&accessRole=editor&linkSource=comment
+    * https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+    * https://mp.weixin.qq.com/s/upjzuPg5AMIDsGxlpqnoCg
+    * (Considered but did not use) https://www.canva.com/link?target=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F27%2Fcredit%2Bapproval&design=DAGWFgWSLeQ&accessRole=editor&linkSource=comment
 * Choice of Evaluation Metrics
-* * https://medium.com/coinmonks/handling-imbalanced-datasets-predicting-credit-card-fraud-544f5e74e0fd
+    * https://medium.com/coinmonks/handling-imbalanced-datasets-predicting-credit-card-fraud-544f5e74e0fd
 * Choice of Labelling
-* * https://github.com/caesarmario/etl-credit-card-dataset-using-pentaho?tab=readme-ov-file#-credit-record
+    * https://github.com/caesarmario/etl-credit-card-dataset-using-pentaho?tab=readme-ov-file#-credit-record
 * Data Cleaning
-* * https://www.channelnewsasia.com/east-asia/china-raise-retirement-age-legislature-approve-draft-proposal-4606266
+    * https://www.channelnewsasia.com/east-asia/china-raise-retirement-age-legislature-approve-draft-proposal-4606266
 * Feature Engineering
-* * https://towardsdatascience.com/choosing-the-right-encoding-method-label-vs-onehot-encoder-a4434493149b,
+    * https://towardsdatascience.com/choosing-the-right-encoding-method-label-vs-onehot-encoder-a4434493149b,
 https://www.shiksha.com/online-courses/articles/normalization-and-standardization/#9
 * Decision Tree
-* * https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+    * https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
 * Prior Work
-* * https://www.kaggle.com/code/hajarlbhyry/credit-card-approval-prediction99-acc-99 
+    * https://www.kaggle.com/code/hajarlbhyry/credit-card-approval-prediction99-acc-99 
 
 
