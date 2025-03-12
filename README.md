@@ -9,10 +9,10 @@ Evaluation metrics: F1 Score, Specificity, Matthew's Correlation Coefficient, Sp
 * Slides used: https://www.canva.com/design/DAGWFgWSLeQ/AEgNgYXoEa86fnIGz9e1sA/edit?utm_content=DAGWFgWSLeQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 * Pre-processing of dataset:
-* * 1_Data_Cleaning_Labeling_and_Merging
-* * 2_Feature_Engineering_Dropping_Useless_Features,_Addition_of_New_Features
-* * 3_Feature_Engineering_Testing_Performance
-* * 4_Feature_Selection_Dropping_High_Correlated_Features
+    * 1_Data_Cleaning_Labeling_and_Merging
+    * 2_Feature_Engineering_Dropping_Useless_Features,_Addition_of_New_Features
+    * 3_Feature_Engineering_Testing_Performance
+    * 4_Feature_Selection_Dropping_High_Correlated_Features
 
 * Model training (using), evaluation and interpreting of results using explainable AI (LIME):
 * * 5_Model_Training_Decision_Tree_Models
