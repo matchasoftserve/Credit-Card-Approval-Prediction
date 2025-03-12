@@ -14,7 +14,7 @@ Evaluation metrics: F1 Score, Specificity, Matthew's Correlation Coefficient, Sp
     * 3_Feature_Engineering_Testing_Performance
     * 4_Feature_Selection_Dropping_High_Correlated_Features
 
-* Model training (using), evaluation and interpreting of results using explainable AI (LIME):
+* Model training, evaluation and interpretation of results using explainable AI (LIME):
     * 5_Model_Training_Decision_Tree_Models
     * 6_Model_Training_Logistic_Regression_Models_+_Explainable_AI
 
