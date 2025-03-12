@@ -25,7 +25,6 @@ promptly clarifying our doubts
 * TA Zhang Yifan, Prof Eric
 * Dataset used
     * https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
-    * https://mp.weixin.qq.com/s/upjzuPg5AMIDsGxlpqnoCg
     * (Considered but did not use) https://www.canva.com/link?target=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F27%2Fcredit%2Bapproval&design=DAGWFgWSLeQ&accessRole=editor&linkSource=comment
 * Choice of Evaluation Metrics
     * https://medium.com/coinmonks/handling-imbalanced-datasets-predicting-credit-card-fraud-544f5e74e0fd
