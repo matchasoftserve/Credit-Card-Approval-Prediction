@@ -2,6 +2,7 @@ This was a group project for NUS CS3244 Machine Learning, done using Google Cola
 
 ## Objective: to predict approval of credit card applications
 Models used: Decision Tree and its ensemble methods (Random Forest, Adaboost, Gradient Boosting), as well as Logistic Regression
+
 Evaluation metrics: F1 Score, Specificity, Matthew's Correlation Coefficient, Specificity
 
 * Original Dataset: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
